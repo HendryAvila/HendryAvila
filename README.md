@@ -1,30 +1,93 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Hendry+Avila+%F0%9F%91%8B;SRE+Developer+%40+Mercado+Libre;Self-taught+builder+%26+creator;From+NOC+operator+to+SRE+Dev" alt="Typing SVG" />
+</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hendry-avila-23101622b/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@HendryCode) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HendryCode) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@HendryCode) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HendryAvila&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HendryAvila&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HendryAvila&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HendryAvila&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HendryAvila&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://www.linkedin.com/in/hendry-avila-23101622b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://youtube.com/@HendryCode"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://x.com/HendryCode"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://tiktok.com/@HendryCode"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HendryAvila&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### About me
+
+```yaml
+name: Hendry Avila
+location: Buenos Aires, Argentina
+origin: Venezuela
+role: SRE Developer @ Mercado Libre
+path: NOC Operator -> Automations -> SRE Developer -> Future Incident Commander
+education: 100% self-taught — no university, just curiosity and persistence
+motto: "If I can imagine it, I can build it"
+```
+
+I started as a NOC operator watching dashboards and escalating incidents. Instead of just reporting problems, I started **automating the solutions**. That mindset took me from operations to development — all self-taught, no formal education. Today I build automations, internal tools, and open-source projects at one of the largest tech companies in Latin America.
+
+---
+
+### What I'm building
+
+<a href="https://github.com/HendryAvila/Hoofy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HendryAvila&repo=Hoofy&theme=github_dark&hide_border=true&border_radius=8" />
+</a>
+
+> **Hoofy** — An MCP server written in Go that brings spec-driven development, persistent memory, and adaptive change management to AI coding agents. 32 tools, single binary, zero dependencies.
+
+---
+
+### Tech stack
+
+<table>
+  <tr>
+    <td align="center" width="110"><b>Main</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>SRE</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HendryAvila&show_icons=true&theme=github_dark&hide_border=true&border_radius=8&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HendryAvila&theme=github-dark-blue&hide_border=true&border_radius=8" height="165"/>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HendryAvila/HendryAvila/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HendryAvila/HendryAvila/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/HendryAvila/HendryAvila/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/HendryAvila/HendryAvila/output/github-snake-dark.svg" />
 </picture>
+
+---
+
+<p align="center">
+  <i>"No university degree. No bootcamp. Just a NOC operator who refused to stop learning."</i>
+</p>
