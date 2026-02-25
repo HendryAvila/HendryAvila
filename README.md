@@ -29,11 +29,20 @@ I started as a NOC operator watching dashboards and escalating incidents. Instea
 
 ### What I'm building
 
-<a href="https://github.com/HendryAvila/Hoofy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HendryAvila&repo=Hoofy&theme=github_dark&hide_border=true&border_radius=8" />
-</a>
-
-> **Hoofy** — An MCP server written in Go that brings spec-driven development, persistent memory, and adaptive change management to AI coding agents. 32 tools, single binary, zero dependencies.
+<table>
+  <tr>
+    <td width="80" align="center">
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+    </td>
+    <td>
+      <a href="https://github.com/HendryAvila/Hoofy"><b>Hoofy</b></a> — Spec-Driven Development MCP Server<br/>
+      <sub>Persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate. 32 MCP tools, single binary, zero dependencies.</sub><br/><br/>
+      <a href="https://github.com/HendryAvila/Hoofy/stargazers"><img src="https://img.shields.io/github/stars/HendryAvila/Hoofy?style=flat-square&color=58A6FF" alt="stars"/></a>
+      <a href="https://github.com/HendryAvila/Hoofy/releases/latest"><img src="https://img.shields.io/github/v/release/HendryAvila/Hoofy?style=flat-square&color=3FB950" alt="release"/></a>
+      <a href="https://github.com/HendryAvila/Hoofy/blob/main/LICENSE"><img src="https://img.shields.io/github/license/HendryAvila/Hoofy?style=flat-square&color=8B949E" alt="license"/></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -76,7 +85,7 @@ I started as a NOC operator watching dashboards and escalating incidents. Instea
 ### GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HendryAvila&show_icons=true&theme=github_dark&hide_border=true&border_radius=8&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HendryAvila&show_icons=true&theme=github_dark&hide_border=true&border_radius=8&include_all_commits=true&count_private=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HendryAvila&theme=github-dark-blue&hide_border=true&border_radius=8" height="165"/>
 </p>
 
