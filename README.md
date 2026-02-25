@@ -18,7 +18,7 @@ name: Hendry Avila
 location: Buenos Aires, Argentina
 origin: Venezuela
 role: SRE Developer @ Mercado Libre
-path: NOC Operator -> Automations -> SRE Developer -> Future Incident Commander
+path: NOC Operator -> Automations -> SRE Developer
 education: 100% self-taught — no university, just curiosity and persistence
 motto: "If I can imagine it, I can build it"
 ```
